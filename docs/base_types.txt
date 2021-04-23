@@ -1,0 +1,13 @@
+C001_CodigoProduto nvarchar(20) 
+C001_DescricaoProduto nvarchar (120) 
+T003_IDNota int 
+C074_CFOP nvarchar (6)
+T004_Quantidade decimal (20,8)
+T004_ValorItem decimal (20,10)
+T004_ValorDesconto decimal (20,8)
+T004_ValorTotalItem decimal (20,8)
+T003_DataEmissao datetime
+C003_Descricao nvarchar (100)
+
+
+
